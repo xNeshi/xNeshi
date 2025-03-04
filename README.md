@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working: An online web photobooth project<br>📚 I'm currently learning: Next.JS and Java Springboot with some rare C# study sessions<br>🎯 Goals: Be a full stack web/mobile developer<br>⚡ Fun fact: I was once awake for 48 hours (Presentation and Exam comboed me)<br><br>📫 How to reach me: neshiviray@gmail.com</p>
+<p align="left">🔭 I’m currently working: <b>An online web photobooth project</b><br>📚 I'm currently learning: <b>Next.JS and Java Springboot with some rare C# study sessions</b><br>🎯 Goals: <b>Be a full stack web/mobile developer</b><br>⚡ Fun fact: <b>I was once awake for 48 hours (Presentation and Exam comboed me)</b><br><br>📫 How to reach me: <b>neshiviray@gmail.com</b></p>
 
 ###
 
