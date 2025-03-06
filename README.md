@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working: <b>An online web photobooth project</b><br>📚 I'm currently learning: <b>Next.JS and Java Springboot with some rare C# study sessions</b><br>🎯 Goals: <b>Be a full stack web/mobile developer</b><br>⚡ Fun fact: <b>I was once awake for 48 hours (Presentation and Exam comboed me)</b><br><br>📫 How to reach me: <b>neshiviray@gmail.com</b></p>
+<p align="left">🔭 I’m currently working: <b>An online web photobooth project</b><br>📚 I'm currently learning: <b>Next.JS and Java with some rare C# study sessions</b><br>🎯 Goals: <b>Be a full stack web/mobile developer</b><br>⚡ Fun fact: <b>I was once awake for 48 hours (Presentation and Exam comboed me)</b><br><br>📫 How to reach me: <b>neshiviray@gmail.com</b></p>
 
 ###
 
@@ -42,8 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
