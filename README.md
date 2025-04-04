@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">A coding enthusiast who could sit hours and hours just debugging. Feel free to contact me if you have a project in mind to collaborate with ^^</p>
+<p align="center">A coding enthusiast who could sit hours just debugging. Feel free to contact me if you have a project in mind to collaborate with ^^</p>
 
 ###
 
